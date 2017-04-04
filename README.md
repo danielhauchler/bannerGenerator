@@ -4,13 +4,7 @@ This is a [Yeoman](http://yeoman.io) generator to get a starter standard, AdWord
 
 ## Let me show you how this works.
 
-Click the image for a video walk through.
-
-[![Video Walk Thru](https://cloud.githubusercontent.com/assets/119723/9295071/84157934-4415-11e5-907d-3fb40bceb977.jpg)](https://www.youtube.com/watch?v=_7dIIwlGdwUl)
-
-## Notes
-
-This is an evolving work in progress. I refine it as I discover better processes. It is an opinionated workflow to speed the production of building a banner. It includes options for HTML banners for standard, AdWords, TruEffect or DoubleClick HTML banners.
+This is an evolving work in progress. It is an opinionated workflow to speed the production of building a banner. It includes options for HTML banners for standard, AdWords, TruEffect or DoubleClick HTML banners.
 
 ## Basic usage
 
