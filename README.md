@@ -14,8 +14,6 @@ You may install this [Yeoman](http://yeoman.io/ "Yeoman homepage") workflow thro
 npm install -g generator-buildabanner
 ``
 
-You may also link this workflow locally into your own NPM installation using `npm link` when you are in the *generator-buildabanner* directory from within your terminal.
-
 To get started use `yo buildabanner` and answer the prompts.
 
 ### gulp commands
